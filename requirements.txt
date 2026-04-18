@@ -1,7 +1,7 @@
 torch==1.8.1
 pytorch-lightning==1.4.9
 torchmetrics==0.5.1
-numpy==1.20.2
+numpy==1.22.0
 pandas==1.2.4
 h5py==2.10.0
 nltk==3.9.4
